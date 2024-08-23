@@ -2,6 +2,8 @@
 
 This is a full-stack website built and deployed using the popular Vercel framework called "NextJS". This is the client side website of one of my previous projects [The Wild Oasis](https://wild-oasis-m.vercel.app/login). 
 
+***Live Demo*** : https://wild-oasis-six-tau.vercel.app
+
 
 # Funcationalities:
 
